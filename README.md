@@ -1,6 +1,6 @@
 # CuidaDose
 
-Projeto React Naitve com Expo, por Carolina Donadel
+Projeto React Native com Expo, por Carolina Donadel
 
 ## Início
 
